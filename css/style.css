@@ -1,6 +1,8 @@
-body
+body {
   font-size: 14px;
+  background-color: #dddddd;
 }
+
 
 nav {
   background color: yellow;
@@ -8,7 +10,7 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
-
+}
 
 section {
   margin: 0 auto;
